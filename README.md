@@ -24,7 +24,7 @@ conda install -c anaconda pyqt
 ```
 
 
-## Running the tests
+## Running the script
 
 Change the file location at line 331-332 of the code like : 
 
@@ -36,9 +36,9 @@ reader.SetFileName("<your_file.vtk>")
 
 ## Built With
 
-* [Python3](http://www.dropwizard.io/1.0.2/docs/) - Language chosen
-* [vtk](https://maven.apache.org/) - Used to read specific .vtk files
-* [PyQt5](https://rometools.github.io/rome/) - Used to build the interface
+* [Python3](https://www.python.org/) - Language chosen
+* [vtk](https://pypi.org/project/vtk/) - Used to read specific .vtk files
+* [PyQt5](https://pypi.org/project/PyQt5/) - Used to build the interface
 
 
 ## Authors
