@@ -45,7 +45,7 @@ reader.SetFileName("<your_file.vtk>")
 
 * **Sébastien Gradit** - *Initial work* - [sebgra's github](https://github.com/sebgra)
 * **Matteo Bovio** - *Initial work* 
-* 
+
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## License
